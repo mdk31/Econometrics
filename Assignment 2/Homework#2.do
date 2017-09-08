@@ -63,7 +63,7 @@ test educ exper tenure
 test educ female married nonwhite
 
 
-*HELP WITH HOMEWORK
+*HOMEWORK START
 
 clear
 use "/Users/mdk31/Documents/Economics/Fall 2014/Econometrics/HPRICE.dta"
